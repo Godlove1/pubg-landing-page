@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pubg-landing-page/static/css/main.9581d8a2.css",
+    "main.js": "/pubg-landing-page/static/js/main.fcdaaabe.js",
+    "static/media/bg.png": "/pubg-landing-page/static/media/bg.f5a1bd6bcab2131a6178.png",
+    "static/media/main_guy.png": "/pubg-landing-page/static/media/main_guy.44e5b226b3d0205bb8ac.png",
+    "index.html": "/pubg-landing-page/index.html",
+    "main.9581d8a2.css.map": "/pubg-landing-page/static/css/main.9581d8a2.css.map",
+    "main.fcdaaabe.js.map": "/pubg-landing-page/static/js/main.fcdaaabe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9581d8a2.css",
+    "static/js/main.fcdaaabe.js"
+  ]
+}
