@@ -36,17 +36,17 @@ function App() {
 <div className="nav__menu flex w-[70%] justify-between items-center">
 <div className="w-full">
 <ul className="flex justify-between items-center  w-full">
-  <li className="text-[#fece00]">Home</li>
-  <li className="text-white">Rules</li>
-  <li className="text-white">Support</li>
-  <li className="text-white">Help</li>
-  <li className="text-white">Contact Us</li>
+  <li className="cursor-pointer  text-[#fece00]">Home</li>
+  <li className="cursor-pointer text-white">Rules</li>
+  <li className="cursor-pointer text-white">Support</li>
+  <li className="cursor-pointer text-white">Help</li>
+  <li className="cursor-pointer text-white">Contact Us</li>
 </ul>
 </div>
 <div className="cta__btns w-1/2 flex justify-end">
   <ul className="flex">
-    <li className="text-white bg-[#fece00] mr-4 px-2 rounded-2xl text-center">LOG IN</li>
-    <li className="text-white bg-[#0c0c0c] px-2 rounded-2xl text-center">SIGN UP</li>
+    <li className="text-white cursor-pointer bg-[#fece00] mr-4 px-2 rounded-2xl text-center">LOG IN</li>
+    <li className="text-white cursor-pointer bg-[#0c0c0c] px-2 rounded-2xl text-center">SIGN UP</li>
   </ul>
 </div>
 </div>
@@ -60,7 +60,7 @@ function App() {
 <span className="text-[#fece00]">BATTLEGROUND'S</span> [PUBG]
 </h1>
 <h4 className="text-white">LIKE WHAT YOU READ? SIGNUP NOW</h4>
-<div className="play__btn bg-white flex justify-between w-[150px] rounded-full mt-4 p-2 text-[#fece00] font-bold">
+<div className="play__btn bg-white flex justify-between w-[150px] rounded-full cursor-pointer mt-4 p-2 text-[#fece00] font-bold">
   <p>PLAY NOW</p>
   <p className="bg-[#fece00] w-[25px] h-[25px] rounded-[50%]"></p>
 </div>
